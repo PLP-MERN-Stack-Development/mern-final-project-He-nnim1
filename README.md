@@ -43,7 +43,7 @@ Your project will be automatically submitted when you push to your GitHub Classr
 3. Deploy your application and add the live URL to your README.md
 4. Create a video demonstration and include the link in your README.md
 
-## Resources
+### Resources
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [Express.js Documentation](https://expressjs.com/)
